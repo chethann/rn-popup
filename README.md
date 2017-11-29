@@ -2,7 +2,7 @@
 Popup component for React native.
 
 # Demo
-![rn-halfcard Demo](https://github.com/chethann/demo-images/blob/master/popup-demo.gif)
+![rn-popup-layout Demo](https://github.com/chethann/demo-images/blob/master/popup-demo.gif)
 
 # Usage
 
