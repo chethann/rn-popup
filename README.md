@@ -1,8 +1,8 @@
 # rn-popup-layout
-Popup component for React native. 
+Popup component for React native.
 
 # Demo
-![rn-halfcard Demo](https://github.com/chethann/rn-popup/blob/master/demo/demo.gif)
+![rn-halfcard Demo](https://github.com/chethann/demo-images/blob/master/popup-demo.gif)
 
 # Usage
 
@@ -26,7 +26,7 @@ Any valid React Native View can be passed as content of the popup.
 - ```top``` and ```left``` are the position of the popup with respect to the view port. Both have default value 0.
 - ```arrowDirection``` should be ```down``` or ```up``` else arrow is not shown.
 - ```arrowOffset``` is offset of the arrow with respect to the popup. Default value is 0.
-- ```arrowColor``` is required to set arrow color. Mostly same as the background color of the popup. Default vlaue is white 
+- ```arrowColor``` is required to set arrow color. Mostly same as the background color of the popup. Default vlaue is white
 
 ### Installation
 - `npm install --save rn-popup-layout`
@@ -34,8 +34,3 @@ Any valid React Native View can be passed as content of the popup.
 License
 ----
 MIT
-
-
-
-
-
